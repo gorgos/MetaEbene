@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetaEbene", "MetaEbene\MetaEbene.csproj", "{31ECA204-70E6-4713-A664-07B87DB33AC4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{31ECA204-70E6-4713-A664-07B87DB33AC4}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{31ECA204-70E6-4713-A664-07B87DB33AC4}.Debug|iPhone.Build.0 = Debug|iPhone
+		{31ECA204-70E6-4713-A664-07B87DB33AC4}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{31ECA204-70E6-4713-A664-07B87DB33AC4}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{31ECA204-70E6-4713-A664-07B87DB33AC4}.Release|iPhone.ActiveCfg = Release|iPhone
+		{31ECA204-70E6-4713-A664-07B87DB33AC4}.Release|iPhone.Build.0 = Release|iPhone
+		{31ECA204-70E6-4713-A664-07B87DB33AC4}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{31ECA204-70E6-4713-A664-07B87DB33AC4}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = MetaEbene\MetaEbene.csproj
+	EndGlobalSection
+EndGlobal
